@@ -1,2 +1,11 @@
 # pseudo-healthy-synthesis
-Our paper is accpeted by Medial Image Analysis. The code is in preparation and will come quickly.
+This is the code for the paper
+@article{xia2020pseudo,
+  title={Pseudo-healthy synthesis with pathology disentanglement and adversarial learning},
+  author={Xia, Tian and Chartsias, Agisilaos and Tsaftaris, Sotirios A},
+  journal={Medical Image Analysis},
+  volume={64},
+  pages={101719},
+  year={2020},
+  publisher={Elsevier}
+}
